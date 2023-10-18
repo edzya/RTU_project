@@ -1,0 +1,12 @@
+ 
+.header {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo-text {
+    color: rgb(0, 69, 88)
+}
+
+#menu-bar {
+    background-color: rgba(10, 84, 80, 0.15)
+}
