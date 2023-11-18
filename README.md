@@ -1,3 +1,3 @@
 # RTU Schedule service
 
-## Deadline by 18.10.2023
+## Deadline by 31.12.2024
